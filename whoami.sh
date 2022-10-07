@@ -2,4 +2,4 @@
 
 echo "uname -a"
 echo "whoami"
-echo "This script running from Master"
+echo "This script is running from Master"
